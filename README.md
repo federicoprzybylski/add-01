@@ -1,6 +1,6 @@
-Alumno: Nombre y apellido
+Alumno: Federico Przybylski
 
-Curso: Curso
+Curso: 6 2 Av
 
 Materia: Computadoras y Sistemas de Control
 
